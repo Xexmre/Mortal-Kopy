@@ -1,4 +1,7 @@
-﻿; ====== 自动填写问卷脚本 ======
+﻿; This code was partially generated with the assistance of GPT-5.
+; 该程序由GPT-5协助编写。
+
+; ====== 自动填写问卷脚本 ======
 ; 版本：AHK v2
 ; 功能：自动填写单选、多选、填空、判断题、名词解释、简答题
 ; 注意：JSON 必须为 UTF-8 无 BOM 编码
