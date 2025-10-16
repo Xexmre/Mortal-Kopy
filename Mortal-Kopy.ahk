@@ -20,7 +20,7 @@ JsonUnescape(s) {
     return s
 }
 
-; --------- 小工具：解析输入中的卷号与 --skip 列表 ----------
+; --------- 工具函数：解析输入中的卷号与 --skip 列表 ----------
 ParseRollAndSkips(inputText) {
     ; 返回对象 { roll: "2.2.2", skip: Map() }
     res := { roll: "", skip: Map() }
